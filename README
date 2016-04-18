@@ -1,0 +1,14 @@
+A:
+
+0000000000400524 T _Z7averageif
+00000000004004f6 T _Z7averagePdRd
+
+B:
+Output:
+1 8
+4 8
+4 8
+8 8
+reason:
+pointer不管指向哪種型態的變數 大小皆為定值
+在我的作業環境下 此大小為8
